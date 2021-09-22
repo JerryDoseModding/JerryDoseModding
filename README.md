@@ -1,3 +1,3 @@
-Thantium Mod (WIP)
+ Not Enough Ores
 
-Everything about stars and energy.
+Everyting you need for modpacks. Tiers, Deposites and more.
