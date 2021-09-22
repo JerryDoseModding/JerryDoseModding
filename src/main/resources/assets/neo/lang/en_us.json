@@ -1,0 +1,10 @@
+{
+	"block.neo.copper_ore": "Copper Ore",
+	"block.neo.andesite_copper_ore": "Andesite Copper Ore",
+	"block.neo.diorite_copper_ore": "Diroite Copper Ore",
+	"block.neo.granite_copper_ore": "Granite Copper Ore",
+
+	"tooltip.neo.copper": "Type: \u00A76Copper",
+	
+	"itemGroup.neo": "Not Enough Ores"
+}
